@@ -68,9 +68,8 @@
         />
 
     <TextView
-        android:id="@+id/tip_amount"
-        android:text="@string/tip_amount"
-        android:gravity="end"
+        android:id="@+id/tip_result"
+        android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintTop_toBottomOf="@id/calculate_button"/>
